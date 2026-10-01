@@ -1,0 +1,1 @@
+# CodeQuest uses Python standard library only. No pip install required.
